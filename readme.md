@@ -1,19 +1,29 @@
 # LLM Abstraction
 
-This repository contains my practice and learning projects from my AI Bootcamp.
+This repository contains my AI Bootcamp practice projects focused on Large Language Models (LLMs) and modern AI application development.
 
 ## Topics Covered
+
 - Python
-- LLM Abstraction
 - Prompt Engineering
-- OpenAI SDK
+- OpenAI / Google Gemini APIs
 - LangChain
-- RAG
+- LLM Abstraction
+- RAG (Retrieval-Augmented Generation)
 - Vector Embeddings
+- FAISS Vector Store
 - AI Agents
+- Chat Applications
 
 ## Technologies
+
 - Python
-- OpenAI
 - LangChain
+- Google Gemini
 - FAISS
+- dotenv
+
+## Installation
+
+```bash
+pip install -r requirements.txt
